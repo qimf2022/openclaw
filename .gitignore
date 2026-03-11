@@ -1,0 +1,22 @@
+# Environment variables (contains secrets)
+.env
+
+# Git credentials
+.git-credentials
+
+# SSH keys
+.ssh/
+
+# Backup directories
+.memory-master-backup/
+
+# OpenClaw state
+.openclaw/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store

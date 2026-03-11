@@ -12,6 +12,10 @@
     "skill-vetter": {
       "version": "1.0.0",
       "installedAt": 1773255962570
+    },
+    "feishu-messaging": {
+      "version": "0.0.3",
+      "installedAt": 1773257864670
     }
   }
 }
