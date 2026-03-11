@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-tool": {
+      "version": "0.1.1",
+      "installedAt": 1773255632624
+    },
+    "memory-master": {
+      "version": "2.6.5",
+      "installedAt": 1773255802200
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773255962570
+    }
+  }
+}
