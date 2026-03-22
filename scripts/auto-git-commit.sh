@@ -18,6 +18,6 @@ git add .
 git commit -m "Auto-commit: $(date '+%Y-%m-%d %H:%M:%S')"
 
 # 推送到dev分支
-git push origin master:dev
+git push origin dev
 
 echo "[$(date)] 自动提交完成"
